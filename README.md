@@ -10,12 +10,13 @@ Lumoz (formerly Opside), Taiko, Nibiru, Shardeum, Ziesha, Relayz, Kenshi, Ario, 
 ### Bootcamps
 I have joined [Rise In](https://www.risein.com/) for bootcamps. They are really good for this job. These are the bootcamps I finished with success so far.
 
-Solidity and BNB Chain Development Bootcamp
-Move on Sui Bootcamp
+- Solidity and BNB Chain Development Bootcamp
+
+- Move on Sui Bootcamp
 
 ![Sui Bootcamp](https://github.com/theritalin/theritalin/blob/main/Ekran%20Resmi%202024-02-01%2019.34.02.png)
 
-Solana Bootcamp
+- Solana Bootcamp
 
 
 ###  📫 How to reach me
