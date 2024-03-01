@@ -18,6 +18,8 @@ I have joined [Rise In](https://www.risein.com/) for bootcamps. They are really 
 
 - Solana Bootcamp
 
+![Solana Bootcamp](https://github.com/theritalin/theritalin/edit/main/Ekran%20Resmi%202024-03-01%2011.48.52.png)
+
 
 ###  📫 How to reach me
 Discord: @thertln
