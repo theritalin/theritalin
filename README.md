@@ -21,6 +21,9 @@ I have joined [Rise In](https://www.risein.com/) for bootcamps. They are really 
 ![Solana Bootcamp](https://github.com/theritalin/theritalin/blob/main/Ekran%20Resmi%202024-03-01%2011.48.52.png)
 
 
+### Hackathons
+- I have submited a [project](https://dorahacks.io/buidl/15313) for [EDU Chain Hackathon: Semester 1](https://dorahacks.io/hackathon/educhain/buidl) on DoraHacks.
+  
 ###  📫 How to reach me
 Discord: @thertln
 Telegram: @thertln
