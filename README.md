@@ -11,7 +11,7 @@ Lumoz (formerly Opside), Taiko, Nibiru, Shardeum, Ziesha, Relayz, Kenshi, Ario, 
 I have joined [Rise In](https://www.risein.com/) for bootcamps. They are really good for this job. These are the bootcamps I finished with success so far.
 
 - Cisco Javascript
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e70cced0-6a66-4229-a44e-6a39abd33f46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Cisco] (https://github.com/theritalin/theritalin/blob/main/javascript-essentials-1.png)
 - Solidity and BNB Chain Development Bootcamp
 
 - Move on Sui Bootcamp
